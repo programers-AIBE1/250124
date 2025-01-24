@@ -1,5 +1,5 @@
 async function makeIssue() {
-    const token = process.env.GITHUB_TOKEN;
+    const token = process.env.GH_TOKEN;
     // 요고 1
     const OWNER = "programers-AIBE1";
     // 요고 2
